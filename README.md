@@ -64,4 +64,4 @@ The component list uses mock API data:
 
 ## Author
 
-Your Name
+Komal Prajapat
